@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: emulator_3pt
+Version: 0.1.0
+Summary: Code for emulating 2x3pt statistics
+Home-page: 
+Author: Pierre Burger
+Author-email: pierre.burger@uwaterloo.ca
+Requires-Python: >=3.10
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: jax
+Requires-Dist: jaxlib
+Requires-Dist: blackjax
+Requires-Dist: gdown
+Requires-Dist: matplotlib
+Requires-Dist: nautilus-sampler
+Requires-Dist: datetime
+Requires-Dist: getdist
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
