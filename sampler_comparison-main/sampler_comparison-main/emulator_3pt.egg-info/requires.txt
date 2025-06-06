@@ -1,0 +1,10 @@
+numpy
+scipy
+jax
+jaxlib
+blackjax
+gdown
+matplotlib
+nautilus-sampler
+datetime
+getdist
